@@ -3,7 +3,7 @@ Full working login and signup using Bloc pattern and Firebase.
 
 ##  Don't forget
 You must create a Firebase authentication configuration.
-Add your ``google-services.json`` file to your ``./android/app/`` folder.
+Add your ``google-services.json`` file to your ``./android/app/`` folder, and the ``GoogleService-Info.plist`` to your IOS Runner folder using Xcode.
 
 ## Current Flutter configuration
 ![flutter_doctor](https://user-images.githubusercontent.com/1804152/95781327-8090dc80-0cc5-11eb-9110-22255688557b.png)
